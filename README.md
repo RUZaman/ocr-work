@@ -1,5 +1,9 @@
 # ocr-work
 
+dowanload this ocr software from here https://github.com/UB-Mannheim/tesseract/wiki
+then install it .then 
+go to windows menu search bar and search evironment variable theb select  systen variable then add new   C:\Program Files\Tesseract-OCR and then save 
+
 
 
 result
@@ -8,3 +12,6 @@ result
 
 
 cod cpied
+
+https://www.youtube.com/watch?v=t_u_dAgqkFk&t=646s
+
